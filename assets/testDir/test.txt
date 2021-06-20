@@ -1,1 +1,0 @@
-This file is test that once create at this path: /assets/test/test.txt
